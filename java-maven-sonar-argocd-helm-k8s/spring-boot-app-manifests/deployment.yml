@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: segbeyon/ultimate-cicd2:6
+        image: segbeyon/ultimate2-cicd:6
         ports:
         - containerPort: 6060
